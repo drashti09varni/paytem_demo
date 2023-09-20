@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  overflow-x: auto;
+}
+.container img {
+  margin-right: 15px;
+}
+.container::-webkit-scrollbar {
+  display: none;
+}
+
+.listUlLi li{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
